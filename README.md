@@ -20,4 +20,6 @@ DB_PASSWORD=password
 php artisan migrate:fresh --seed
 7. Jalankan Server
 php artisan serve
+
+
 Itu saja! Proyek Laravel 9 Anda sekarang sudah berjalan dan database sudah di-migrate serta di-seed.
